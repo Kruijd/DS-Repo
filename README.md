@@ -1,2 +1,4 @@
 # data-Science-Repo
-Repository for coursera data Science 
+Repository voor coursera data Science 
+Blablablabla 
+Enzovoorts.
